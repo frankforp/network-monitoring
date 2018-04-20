@@ -8,3 +8,6 @@ git+git://github.com/dyve/django-bootstrap3.git@develop
 pygit
 pyping
 pycurl
+
+# django <2 
+#sudo apt-get install libssl-dev libcurl4-openssl-dev python-dev
